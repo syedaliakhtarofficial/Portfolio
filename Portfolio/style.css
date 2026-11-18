@@ -1,0 +1,139 @@
+body {
+    background-color: rgb(17, 30, 64);
+}
+
+h2 {
+    color: rgb(56, 189, 248);
+    font-family: 'Dancing Script', cursive;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px, 50px;
+
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    gap: 35px;
+}
+
+nav a {
+    text-decoration: none;
+    color: rgb(163, 163, 163);
+    font-size: 18px;
+}
+
+nav a:hover {
+    color: #20b8ff;
+    text-decoration: underline;
+}
+
+.resume {
+    border: 2px solid #20b8ff;
+    padding: 10px;
+    border-radius: 5px;
+
+}
+
+.resume a:hover {
+    text-decoration: underline;
+}
+
+h4 {
+    color: #20b8ff;
+    padding-left: 130px;
+    padding-top: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.intro {
+    color: rgb(179, 180, 180);
+    font-family: "poppins", "preconnect";
+    padding-left: 130px;
+
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 53px;
+    /* margin: 0px; */
+}
+
+h1 {
+    color: aliceblue;
+    font-family: "poppins", "preconnect";
+    padding-left: 130px;
+    padding-bottom: 2px;
+    padding-top: 0px;
+    margin-bottom: 0px;
+    font-size: 60px;
+
+}
+
+.para {
+    color: rgb(179, 180, 180);
+    font-family: "poppins", "preconnect";
+    padding-left: 130px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: px;
+}
+
+.para-2 {
+    color: #20b8ff;
+    padding-left: 130px;
+    padding-top: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.about-me {
+    color: rgb(179, 180, 180);
+    font-family: "poppins", "preconnect";
+    padding-left: 130px;
+    margin-top: 80px;
+    margin-bottom: 0px;
+    font-size: 35px;
+    font-weight: 450;
+}
+
+.hello {
+    color: #20b8ff;
+    padding-left: 130px;
+    padding-top: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.about-section {
+    color: rgb(179, 180, 180);
+    font-family: "poppins", "preconnect";
+    padding-left: 130px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 15px;
+    font-weight: 450;
+}
+
+.list {
+    color: rgb(179, 180, 180);
+    font-family: "poppins", "preconnect";
+    padding-left: 143px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 15px;
+    font-weight: 450;
+}
+
+.pic {
+    padding-left: 160px;
+    border: 2px solid #20b8ff;
+    padding: 10px;
+    border-radius: 7px;
+    width: 150px;
+    height: 200px;
+    display: flex;
+    align-items: left;
+    margin-left: 900px;
+    margin-top: -290px;
+}
